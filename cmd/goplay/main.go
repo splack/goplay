@@ -7,8 +7,8 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/haya14busa/goplay"
 	"github.com/skratchdot/open-golang/open"
+	"github.com/splack/goplay"
 )
 
 var (
